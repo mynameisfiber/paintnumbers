@@ -1,0 +1,4 @@
+cv2
+git+https://github.com/drufat/triangle.git
+scikit-image
+tqdm
